@@ -1,0 +1,10 @@
+body {
+  display: flex;
+  justify-content: center;
+  padding: 30px;
+}
+
+.article-list__li {
+  margin-bottom: 30px;
+  max-width: 900px;
+}
